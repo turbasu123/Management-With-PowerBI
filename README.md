@@ -1,1 +1,1 @@
-# Management-With-PowerBI
+# Management-insight-PowerBI
