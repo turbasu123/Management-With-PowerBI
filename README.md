@@ -1,4 +1,6 @@
 # Management-insight-PowerBI
+![PowerBI_ss](https://user-images.githubusercontent.com/58759652/87803096-af86e600-c86f-11ea-99fd-0aa6adf06fd5.png)
+
 
 Create the following measures from the mention data set.
 
